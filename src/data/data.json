@@ -1,0 +1,17 @@
+{
+	"Basics": {
+		"name": "BHIMAVARAPU SRAVYA PRANATI",
+		"role": "Student",
+		"location": "Guntur, AndhraPradesh",
+		"mobile": "+91 9705966897",
+		"email": "sravyapranathi333@gmail.com",
+		"desc": [
+            "Computer science undergraduate, specializing in programming, with hands-on awareness on Android application and React Applications coupled with Passion-driven individual."		],
+		"skill":{
+			"languages":["JAVA", "PYTHON", "C", "C++"],
+			"frameworks":["Bootstrap", "CodePen"],
+			"libraries":["Jquery","ReactJs"],
+			"database":["Sql", "Mysql", "MongoDB"]
+		}
+	}
+}
