@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sravya_resume/static/css/main.d1b05096.chunk.css",
+    "main.js": "/sravya_resume/static/js/main.d4420e45.chunk.js",
+    "main.js.map": "/sravya_resume/static/js/main.d4420e45.chunk.js.map",
+    "runtime-main.js": "/sravya_resume/static/js/runtime-main.07dc00f1.js",
+    "runtime-main.js.map": "/sravya_resume/static/js/runtime-main.07dc00f1.js.map",
+    "static/js/2.fc759bb6.chunk.js": "/sravya_resume/static/js/2.fc759bb6.chunk.js",
+    "static/js/2.fc759bb6.chunk.js.map": "/sravya_resume/static/js/2.fc759bb6.chunk.js.map",
+    "index.html": "/sravya_resume/index.html",
+    "precache-manifest.c45684c127ae4b944c22ffcd2969880c.js": "/sravya_resume/precache-manifest.c45684c127ae4b944c22ffcd2969880c.js",
+    "service-worker.js": "/sravya_resume/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/sravya_resume/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.fc759bb6.chunk.js.LICENSE.txt": "/sravya_resume/static/js/2.fc759bb6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07dc00f1.js",
+    "static/js/2.fc759bb6.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.d4420e45.chunk.js"
+  ]
+}
